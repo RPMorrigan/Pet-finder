@@ -1,0 +1,43 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  flex-flow: column wrap;
+  height: 100vh;
+  border: solid red;
+  text-align: center;
+}
+.wrapper {
+  border: solid green;
+  width: fit-content;
+  margin: auto;
+}
+
+form {
+  display: flex;
+  flex-flow: column wrap;
+  width: fit-content;
+  gap: 1rem;
+  padding: 2rem;
+}
+
+button {
+  width: fit-content;
+}
+
+select {
+  width: 100%;
+}
+
+span {
+  color: red;
+}
+
+label {
+  display: block;
+  text-align: left;
+}

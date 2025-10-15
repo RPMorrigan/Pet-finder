@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pet Finder</title>
+    <link rel="stylesheet" href="CSS/style.css">
+</head>
+<header>
+    <h1>LETS FIND YOUR PERFECT PET!</h1>
+</header>
+
+<body>
+    <main>
+        <!--   Our container for the form and all the goodies inside   -->
+        <div class="wrapper" id="wrapper">
+            <!--    form starts here    -->
+            <form class="pet-form" id="pet-form" name="petForm">
+                <!--    I've group each input with its' label in a div to wrap them together for cleaner formatting    -->
+                <!--    User's Name    -->
+                <div class="user-name usrInput">
+                    <label for="name">Name:<span>*</span></label>
+                    <input type="text" class="usr-name" name="name">
+                </div>
+                <!--    User's email    -->
+                <div class="user-email usrInput">
+                    <label for="name">email:<span>*</span></label>
+                    <input type="email" class="usr-email" name="email">
+                </div>
+                <!--    User's zipcode    -->
+                <div class="user-zip usrInput">
+                    <label>Zipcode:<span>*</span></label>
+                    <input id="zip" name="zip" type="text" inputmode="numeric"
+                        pattern="^(?(^00000(|-0000))|(\d{5}(|-\d{4})))$">
+                </div>
+                <!--    Pet preference    -->
+                <div class="pet-select usrInput">
+                    <label>Choose your pet:<span>*</span></label>
+                    <select aria-required="true">
+                        <option value="" name="placeholder" disabled selected> -- Select One --</option>
+                        <option value="rabbit">Cat</option>
+                        <option value="dog">Dog</option>
+                        <option value="bird">Bird</option>
+                        <option value="rabbitt">Rabbit</option>
+                    </select>
+                </div>
+                <button class="formBtn" type="submit">Submit</button>
+            </form>
+        </div>
+    </main>
+    <script src="JS/script.js"></script>
+</body>
+
+</html>
