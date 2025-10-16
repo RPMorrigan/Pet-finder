@@ -23,8 +23,8 @@ function getToken() {
 		},
 		body: new URLSearchParams({
 			grant_type: "client_credentials",
-			client_id: "ADD HERE",
-			client_secret: "ADD HERE"
+			client_id: apiKey,
+			client_secret: secret
 		})
 	})
 		.then((res) => res.json())
