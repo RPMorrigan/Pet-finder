@@ -10,9 +10,12 @@ form.addEventListener("submit", usrData);
 function usrData (e) {
   e.preventDefault();
   
-    const formData = new FormData(form);
-    const data = Object.fromEntries(formData.entries());
-    console.log(data);
+    const data = new FormData(form);
+    const formData = Object.fromEntries(data.entries());
+    console.log(formData);
+
+    getAdoptablePets(formData);
+
 }
 
 function getToken() {
@@ -36,10 +39,10 @@ function getAdoptablePets(formData) {
 //first need to call the getToken function, then once that value is returned, you can use the token in the API call
 //they will have to research how to build their link
 	getToken().then((token) => {
-		fetch(	 `ADD URL`,
+		fetch(	 `https://api.petfinder.com/v2/animals?type=${formData.type}&`,
 			{//note the token is being used in the header, which they will learn more about in backend
 				headers: {
-					Authorization: `Bearer${token}`
+					Authorization: `Bearer ${token}`
 				}
 			}
 		)
