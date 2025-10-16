@@ -16,7 +16,7 @@
         <!--   Our container for the form and all the goodies inside   -->
         <div class="wrapper" id="wrapper">
             <!--    form starts here    -->
-            <form class="pet-form" id="pet-form" name="petForm">
+            <form class="pet-form" id="petForm" name="petForm">
                 <!--    I've group each input with its' label in a div to wrap them together for cleaner formatting    -->
                 <!--    User's Name    -->
                 <div class="user-name usrInput">
@@ -31,8 +31,7 @@
                 <!--    User's zipcode    -->
                 <div class="user-zip usrInput">
                     <label>Zipcode:<span>*</span></label>
-                    <input id="zip" name="zip" type="text" inputmode="numeric"
-                        pattern="^(?(^00000(|-0000))|(\d{5}(|-\d{4})))$">
+                    <input id="zip" name="zip" type="number">
                 </div>
                 <!--    Pet preference    -->
                 <div class="pet-select usrInput">

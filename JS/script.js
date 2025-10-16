@@ -7,11 +7,12 @@ const form = document.getElementById("petForm");
 form.addEventListener("submit", usrData);
 
 // first, lets collect our user data
-function usrData (event) {
-  event.preventDefault();
+function usrData (e) {
+  e.preventDefault();
   
-  const formData = new FormData(target.event);
-  const data = Object.fromEntries(formData.entries());
+    const formData = new FormData(form);
+    const data = Object.fromEntries(formData.entries());
+    console.log(data);
 }
 
 function getToken() {

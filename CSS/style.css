@@ -8,11 +8,9 @@ body {
   display: flex;
   flex-flow: column wrap;
   height: 100vh;
-  border: solid red;
   text-align: center;
 }
 .wrapper {
-  border: solid green;
   width: fit-content;
   margin: auto;
 }
