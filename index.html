@@ -22,22 +22,22 @@
                     <!--    User's Name    -->
                     <div class="user-name usrInput">
                         <label for="name">Name:<span>*</span></label>
-                        <input type="text" class="usr-name" name="name">
+                        <input type="text" class="usr-name" name="name" required>
                     </div>
                     <!--    User's email    -->
                     <div class="user-email usrInput">
                         <label for="name">email:<span>*</span></label>
-                        <input type="email" class="usr-email" name="email">
+                        <input type="email" class="usr-email" name="email" required>
                     </div>
                     <!--    User's zipcode    -->
                     <div class="user-zip usrInput">
                         <label>Zipcode:<span>*</span></label>
-                        <input id="zip" name="zip" type="number">
+                        <input id="zip" name="zip" type="number" required>
                     </div>
                     <!--    Pet preference    -->
                     <div class="pet-select usrInput">
                         <label for="petType">Choose your pet:<span>*</span></label>
-                        <select class="type" id="type" name="type" aria-required="true">
+                        <select class="type" id="type" name="type" aria-required="true" required>
                             <option value="" name="placeholder" disabled selected> -- Select One --</option>
                             <option value="cat">Cat</option>
                             <option value="dog">Dog</option>
@@ -45,7 +45,7 @@
                             <option value="rabbit">Rabbit</option>
                         </select>
                     </div>
-                    <div class="pet-color usrInput" id="pet-color" name="petColor">
+                    <div class="pet-color usrInput" id="pet-color" name="petColor" required>
                         <label for="colorSelect">Pet Color: <span>*</span></label>
                         <select class="color-select" id="color-select" name="colorSelect">
                             <option value="" name="placeholder0" disabled selected> -- Select One -- </option>
