@@ -7,46 +7,73 @@
     <title>Pet Finder</title>
     <link rel="stylesheet" href="CSS/style.css">
 </head>
-<header>
-    <h1>LETS FIND YOUR PERFECT PET!</h1>
-</header>
 
 <body>
+    <section>
+        <h1>Lets find your perfect pet!</h1>
+    </section>
     <main>
-        <!--   Our container for the form and all the goodies inside   -->
-        <div class="wrapper" id="wrapper">
-            <!--    form starts here    -->
-            <form class="pet-form" id="petForm" name="petForm">
-                <!--    I've group each input with its' label in a div to wrap them together for cleaner formatting    -->
-                <!--    User's Name    -->
-                <div class="user-name usrInput">
-                    <label for="name">Name:<span>*</span></label>
-                    <input type="text" class="usr-name" name="name">
-                </div>
-                <!--    User's email    -->
-                <div class="user-email usrInput">
-                    <label for="name">email:<span>*</span></label>
-                    <input type="email" class="usr-email" name="email">
-                </div>
-                <!--    User's zipcode    -->
-                <div class="user-zip usrInput">
-                    <label>Zipcode:<span>*</span></label>
-                    <input id="zip" name="zip" type="number">
-                </div>
-                <!--    Pet preference    -->
-                <div class="pet-select usrInput">
-                    <label for="petType">Choose your pet:<span>*</span></label>
-                    <select class="type" id="type" name="type" aria-required="true">
-                        <option value="" name="placeholder" disabled selected> -- Select One --</option>
-                        <option value="cat">Cat</option>
-                        <option value="dog">Dog</option>
-                        <option value="bird">Bird</option>
-                        <option value="rabbit">Rabbit</option>
-                    </select>
-                </div>
-                <button class="formBtn" type="submit">Submit</button>
-            </form>
-        </div>
+        <section class="form-section" id="form-section" name="formSection">
+            <!--   Our container for the form and all the goodies inside   -->
+            <div class="wrapper" id="wrapper">
+                <!--    form starts here    -->
+                <form class="pet-form" id="petForm" name="petForm">
+                    <!--    I've group each input with its' label in a div to wrap them together for cleaner formatting    -->
+                    <!--    User's Name    -->
+                    <div class="user-name usrInput">
+                        <label for="name">Name:<span>*</span></label>
+                        <input type="text" class="usr-name" name="name">
+                    </div>
+                    <!--    User's email    -->
+                    <div class="user-email usrInput">
+                        <label for="name">email:<span>*</span></label>
+                        <input type="email" class="usr-email" name="email">
+                    </div>
+                    <!--    User's zipcode    -->
+                    <div class="user-zip usrInput">
+                        <label>Zipcode:<span>*</span></label>
+                        <input id="zip" name="zip" type="number">
+                    </div>
+                    <!--    Pet preference    -->
+                    <div class="pet-select usrInput">
+                        <label for="petType">Choose your pet:<span>*</span></label>
+                        <select class="type" id="type" name="type" aria-required="true">
+                            <option value="" name="placeholder" disabled selected> -- Select One --</option>
+                            <option value="cat">Cat</option>
+                            <option value="dog">Dog</option>
+                            <option value="bird">Bird</option>
+                            <option value="rabbit">Rabbit</option>
+                        </select>
+                    </div>
+                    <div class="pet-color usrInput" id="pet-color" name="petColor">
+                        <label for="colorSelect">Pet Color: <span>*</span></label>
+                        <select class="color-select" id="color-select" name="colorSelect">
+                            <option value="" name="placeholder0" disabled selected> -- Select One -- </option>
+                            <option value="black">Black</option>
+                            <option value="blue">Blue</option>
+                            <option value="brown">Brown</option>
+                            <option value="buff">Buff</option>
+                            <option value="grey">Grey</option>
+                            <option value="green">Green</option>
+                            <option value="olive">Olive</option>
+                            <option value="orange">Orange</option>
+                            <option value="Pink">Pink</option>
+                            <option value="violet">Violet/Purple</option>
+                            <option value="red">red</option>
+                            <option value="rust">Rust/Rufous</option>
+                            <option value="Tan">Tan</option>
+                            <option value="white">White</option>
+                            <option value="yellow">Yellow</option>
+                        </select>
+                    </div>
+                    <button class="formBtn" type="submit">Submit</button>
+                </form>
+            </div>
+        </section>
+        <section class="results-section" id="results-section" name="resultsSection">
+            <div class="results-wrapper" id="results-wrapper" name="resultsWrapper">
+            </div>
+        </section>
     </main>
     <script src="JS/script.js"></script>
 </body>

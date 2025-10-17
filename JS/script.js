@@ -39,7 +39,7 @@ function getAdoptablePets(formData) {
 //first need to call the getToken function, then once that value is returned, you can use the token in the API call
 //they will have to research how to build their link
 	getToken().then((token) => {
-		fetch(	 `https://api.petfinder.com/v2/animals?type=${formData.type}&`,
+		fetch(	 `https://api.petfinder.com/v2/animals?type=${formData.type}&location=${formData.zip}&color=${formData.colorSelect}`,
 			{//note the token is being used in the header, which they will learn more about in backend
 				headers: {
 					Authorization: `Bearer ${token}`
