@@ -1,0 +1,1605 @@
+{
+  "animals": [
+    {
+      "id": 78926373,
+      "organization_id": "UT135",
+      "url": "https://www.petfinder.com/cat/hunter-78926373/ut/lindon/north-utah-valley-animal-shelter-ut135/?referrer_id=566db905-360d-4212-8dd5-fc840d78ee1e&utm_source=api&utm_medium=partnership&utm_content=566db905-360d-4212-8dd5-fc840d78ee1e",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Black",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [
+        "Friendly",
+        "Affectionate",
+        "Playful",
+        "Loves"
+      ],
+      "name": "Hunter",
+      "description": "Hunter is 1-3 years old. He has been available for adoption since 10/10/2025. Hunter is a handsome boy! He is...",
+      "organization_animal_id": "2418",
+      "photos": [
+        {
+          "small": "https://dbw3zep4prcju.cloudfront.net/animal/87d06616-09bb-4d01-b1ec-6b677784e5aa/image/4a353a5d-782c-4952-a054-103419c45506.jpg?versionId=CXL.jNLchczw2mFkna1.VmTQgjP3U1SA&bust=1761329713&width=100",
+          "medium": "https://dbw3zep4prcju.cloudfront.net/animal/87d06616-09bb-4d01-b1ec-6b677784e5aa/image/4a353a5d-782c-4952-a054-103419c45506.jpg?versionId=CXL.jNLchczw2mFkna1.VmTQgjP3U1SA&bust=1761329713&width=300",
+          "large": "https://dbw3zep4prcju.cloudfront.net/animal/87d06616-09bb-4d01-b1ec-6b677784e5aa/image/4a353a5d-782c-4952-a054-103419c45506.jpg?versionId=CXL.jNLchczw2mFkna1.VmTQgjP3U1SA&bust=1761329713&width=600",
+          "full": "https://dbw3zep4prcju.cloudfront.net/animal/87d06616-09bb-4d01-b1ec-6b677784e5aa/image/4a353a5d-782c-4952-a054-103419c45506.jpg?versionId=CXL.jNLchczw2mFkna1.VmTQgjP3U1SA&bust=1761329713"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dbw3zep4prcju.cloudfront.net/animal/87d06616-09bb-4d01-b1ec-6b677784e5aa/image/4a353a5d-782c-4952-a054-103419c45506.jpg?versionId=CXL.jNLchczw2mFkna1.VmTQgjP3U1SA&bust=1761329713&width=300",
+        "medium": "https://dbw3zep4prcju.cloudfront.net/animal/87d06616-09bb-4d01-b1ec-6b677784e5aa/image/4a353a5d-782c-4952-a054-103419c45506.jpg?versionId=CXL.jNLchczw2mFkna1.VmTQgjP3U1SA&bust=1761329713&width=450",
+        "large": "https://dbw3zep4prcju.cloudfront.net/animal/87d06616-09bb-4d01-b1ec-6b677784e5aa/image/4a353a5d-782c-4952-a054-103419c45506.jpg?versionId=CXL.jNLchczw2mFkna1.VmTQgjP3U1SA&bust=1761329713&width=600",
+        "full": "https://dbw3zep4prcju.cloudfront.net/animal/87d06616-09bb-4d01-b1ec-6b677784e5aa/image/4a353a5d-782c-4952-a054-103419c45506.jpg?versionId=CXL.jNLchczw2mFkna1.VmTQgjP3U1SA&bust=1761329713"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2025-10-24T18:18:21+0000",
+      "published_at": "2025-10-24T18:18:20+0000",
+      "distance": 26.7897,
+      "contact": {
+        "email": "nuvas@orem.gov",
+        "phone": "801-785-3442",
+        "address": {
+          "address1": "193 N 2000 W",
+          "address2": null,
+          "city": "Lindon",
+          "state": "UT",
+          "postcode": "84042",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/78926373"
+        },
+        "type": {
+          "href": "/v2/types/cat"
+        },
+        "organization": {
+          "href": "/v2/organizations/ut135"
+        }
+      }
+    },
+    {
+      "id": 78920140,
+      "organization_id": "UT81",
+      "url": "https://www.petfinder.com/cat/hocus-78920140/ut/salt-lake-city/best-friends-animal-society-utah-ut81/?referrer_id=566db905-360d-4212-8dd5-fc840d78ee1e&utm_source=api&utm_medium=partnership&utm_content=566db905-360d-4212-8dd5-fc840d78ee1e",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Black",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Female",
+      "size": "Small",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Hocus",
+      "description": "Hocus is a tiny bundle of energy and mischief! This playful black kitten loves nothing more than wrestling and tumbling...",
+      "organization_animal_id": "BSLC-A-138922",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78920140/1/?bust=1761310889&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78920140/1/?bust=1761310889&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78920140/1/?bust=1761310889&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78920140/1/?bust=1761310889"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78920140/1/?bust=1761310889&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78920140/1/?bust=1761310889&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78920140/1/?bust=1761310889&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78920140/1/?bust=1761310889"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2025-10-24T12:59:44+0000",
+      "published_at": "2025-10-24T12:59:42+0000",
+      "distance": 1.9714,
+      "contact": {
+        "email": "utahadoptions@bestfriends.org",
+        "phone": "(801) 574-2454",
+        "address": {
+          "address1": "2005 S 1100 E",
+          "address2": null,
+          "city": "Salt Lake City",
+          "state": "UT",
+          "postcode": "84106",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/78920140"
+        },
+        "type": {
+          "href": "/v2/types/cat"
+        },
+        "organization": {
+          "href": "/v2/organizations/ut81"
+        }
+      }
+    },
+    {
+      "id": 78920137,
+      "organization_id": "UT81",
+      "url": "https://www.petfinder.com/cat/go-gurt-78920137/ut/salt-lake-city/best-friends-animal-society-utah-ut81/?referrer_id=566db905-360d-4212-8dd5-fc840d78ee1e&utm_source=api&utm_medium=partnership&utm_content=566db905-360d-4212-8dd5-fc840d78ee1e",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Black",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Small",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Go Gurt",
+      "description": "Go Gurt may be tiny, but he&amp;#39;s bursting with personality! This adorable little black kitten is full of playful energy...",
+      "organization_animal_id": "BSLC-A-139283",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78920137/1/?bust=1761310890&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78920137/1/?bust=1761310890&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78920137/1/?bust=1761310890&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78920137/1/?bust=1761310890"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78920137/1/?bust=1761310890&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78920137/1/?bust=1761310890&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78920137/1/?bust=1761310890&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78920137/1/?bust=1761310890"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2025-10-24T12:59:44+0000",
+      "published_at": "2025-10-24T12:59:42+0000",
+      "distance": 1.9714,
+      "contact": {
+        "email": "utahadoptions@bestfriends.org",
+        "phone": "(801) 574-2454",
+        "address": {
+          "address1": "2005 S 1100 E",
+          "address2": null,
+          "city": "Salt Lake City",
+          "state": "UT",
+          "postcode": "84106",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/78920137"
+        },
+        "type": {
+          "href": "/v2/types/cat"
+        },
+        "organization": {
+          "href": "/v2/organizations/ut81"
+        }
+      }
+    },
+    {
+      "id": 78920125,
+      "organization_id": "UT81",
+      "url": "https://www.petfinder.com/cat/martil-78920125/ut/salt-lake-city/best-friends-animal-society-utah-ut81/?referrer_id=566db905-360d-4212-8dd5-fc840d78ee1e&utm_source=api&utm_medium=partnership&utm_content=566db905-360d-4212-8dd5-fc840d78ee1e",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Black",
+        "secondary": "White",
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Small",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Martil",
+      "description": null,
+      "organization_animal_id": "BSLC-A-139301",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78920125/1/?bust=1761310880&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78920125/1/?bust=1761310880&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78920125/1/?bust=1761310880&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78920125/1/?bust=1761310880"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78920125/1/?bust=1761310880&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78920125/1/?bust=1761310880&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78920125/1/?bust=1761310880&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78920125/1/?bust=1761310880"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2025-10-24T12:59:43+0000",
+      "published_at": "2025-10-24T12:59:41+0000",
+      "distance": 1.9714,
+      "contact": {
+        "email": "utahadoptions@bestfriends.org",
+        "phone": "(801) 574-2454",
+        "address": {
+          "address1": "2005 S 1100 E",
+          "address2": null,
+          "city": "Salt Lake City",
+          "state": "UT",
+          "postcode": "84106",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/78920125"
+        },
+        "type": {
+          "href": "/v2/types/cat"
+        },
+        "organization": {
+          "href": "/v2/organizations/ut81"
+        }
+      }
+    },
+    {
+      "id": 78920128,
+      "organization_id": "UT81",
+      "url": "https://www.petfinder.com/cat/edinburgh-78920128/ut/salt-lake-city/best-friends-animal-society-utah-ut81/?referrer_id=566db905-360d-4212-8dd5-fc840d78ee1e&utm_source=api&utm_medium=partnership&utm_content=566db905-360d-4212-8dd5-fc840d78ee1e",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Black",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Small",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Edinburgh",
+      "description": null,
+      "organization_animal_id": "BSLC-A-139308",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78920128/1/?bust=1761310882&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78920128/1/?bust=1761310882&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78920128/1/?bust=1761310882&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78920128/1/?bust=1761310882"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78920128/1/?bust=1761310882&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78920128/1/?bust=1761310882&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78920128/1/?bust=1761310882&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78920128/1/?bust=1761310882"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2025-10-24T12:59:43+0000",
+      "published_at": "2025-10-24T12:59:41+0000",
+      "distance": 1.9714,
+      "contact": {
+        "email": "utahadoptions@bestfriends.org",
+        "phone": "(801) 574-2454",
+        "address": {
+          "address1": "2005 S 1100 E",
+          "address2": null,
+          "city": "Salt Lake City",
+          "state": "UT",
+          "postcode": "84106",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/78920128"
+        },
+        "type": {
+          "href": "/v2/types/cat"
+        },
+        "organization": {
+          "href": "/v2/organizations/ut81"
+        }
+      }
+    },
+    {
+      "id": 78920129,
+      "organization_id": "UT81",
+      "url": "https://www.petfinder.com/cat/carmilla-78920129/ut/salt-lake-city/best-friends-animal-society-utah-ut81/?referrer_id=566db905-360d-4212-8dd5-fc840d78ee1e&utm_source=api&utm_medium=partnership&utm_content=566db905-360d-4212-8dd5-fc840d78ee1e",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Black",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Female",
+      "size": "Small",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Carmilla",
+      "description": "Meet Carmilla - a darling little tabby kitten with big, curious eyes and an even bigger heart! She&amp;#39;s playful, sweet,...",
+      "organization_animal_id": "BSLC-A-139180",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78920129/1/?bust=1761310889&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78920129/1/?bust=1761310889&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78920129/1/?bust=1761310889&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78920129/1/?bust=1761310889"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78920129/1/?bust=1761310889&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78920129/1/?bust=1761310889&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78920129/1/?bust=1761310889&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78920129/1/?bust=1761310889"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2025-10-24T12:59:43+0000",
+      "published_at": "2025-10-24T12:59:41+0000",
+      "distance": 1.9714,
+      "contact": {
+        "email": "utahadoptions@bestfriends.org",
+        "phone": "(801) 574-2454",
+        "address": {
+          "address1": "2005 S 1100 E",
+          "address2": null,
+          "city": "Salt Lake City",
+          "state": "UT",
+          "postcode": "84106",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/78920129"
+        },
+        "type": {
+          "href": "/v2/types/cat"
+        },
+        "organization": {
+          "href": "/v2/organizations/ut81"
+        }
+      }
+    },
+    {
+      "id": 78920122,
+      "organization_id": "UT81",
+      "url": "https://www.petfinder.com/cat/dexter-78920122/ut/salt-lake-city/best-friends-animal-society-utah-ut81/?referrer_id=566db905-360d-4212-8dd5-fc840d78ee1e&utm_source=api&utm_medium=partnership&utm_content=566db905-360d-4212-8dd5-fc840d78ee1e",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Black",
+        "secondary": "Smoke",
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Small",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Dexter",
+      "description": "Say hello to Dexter - a dashing little kitten with the most unique smoke-colored coat you&amp;#39;ve ever seen! His fur...",
+      "organization_animal_id": "BSLC-A-139177",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78920122/1/?bust=1761310880&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78920122/1/?bust=1761310880&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78920122/1/?bust=1761310880&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78920122/1/?bust=1761310880"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78920122/1/?bust=1761310880&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78920122/1/?bust=1761310880&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78920122/1/?bust=1761310880&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78920122/1/?bust=1761310880"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2025-10-24T12:59:42+0000",
+      "published_at": "2025-10-24T12:59:40+0000",
+      "distance": 1.9714,
+      "contact": {
+        "email": "utahadoptions@bestfriends.org",
+        "phone": "(801) 574-2454",
+        "address": {
+          "address1": "2005 S 1100 E",
+          "address2": null,
+          "city": "Salt Lake City",
+          "state": "UT",
+          "postcode": "84106",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/78920122"
+        },
+        "type": {
+          "href": "/v2/types/cat"
+        },
+        "organization": {
+          "href": "/v2/organizations/ut81"
+        }
+      }
+    },
+    {
+      "id": 78920071,
+      "organization_id": "UT28",
+      "url": "https://www.petfinder.com/cat/paris-78920071/ut/murray/humane-society-of-utah-ut28/?referrer_id=566db905-360d-4212-8dd5-fc840d78ee1e&utm_source=api&utm_medium=partnership&utm_content=566db905-360d-4212-8dd5-fc840d78ee1e",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "White",
+        "secondary": "Black",
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Female",
+      "size": "Large",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Paris",
+      "description": null,
+      "organization_animal_id": "HSUT-A-58042",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2025-10-24T12:59:16+0000",
+      "published_at": "2025-10-24T12:59:15+0000",
+      "distance": 2.4505,
+      "contact": {
+        "email": "adoptions@utahhumane.org",
+        "phone": "(801) 261-2919 option 4",
+        "address": {
+          "address1": "4242 South 300 West",
+          "address2": null,
+          "city": "Murray",
+          "state": "UT",
+          "postcode": "84157",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/78920071"
+        },
+        "type": {
+          "href": "/v2/types/cat"
+        },
+        "organization": {
+          "href": "/v2/organizations/ut28"
+        }
+      }
+    },
+    {
+      "id": 78920051,
+      "organization_id": "UT28",
+      "url": "https://www.petfinder.com/cat/tux-78920051/ut/murray/humane-society-of-utah-ut28/?referrer_id=566db905-360d-4212-8dd5-fc840d78ee1e&utm_source=api&utm_medium=partnership&utm_content=566db905-360d-4212-8dd5-fc840d78ee1e",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Black",
+        "secondary": "White",
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Small",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Tux",
+      "description": "Tux is a friendly gal who is making so much progress with getting used to humans. She loves to play...",
+      "organization_animal_id": "HSUT-A-57438",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78920051/1/?bust=1761310852&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78920051/1/?bust=1761310852&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78920051/1/?bust=1761310852&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78920051/1/?bust=1761310852"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78920051/1/?bust=1761310852&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78920051/1/?bust=1761310852&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78920051/1/?bust=1761310852&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78920051/1/?bust=1761310852"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2025-10-24T12:59:16+0000",
+      "published_at": "2025-10-24T12:59:14+0000",
+      "distance": 2.4505,
+      "contact": {
+        "email": "adoptions@utahhumane.org",
+        "phone": "(801) 261-2919 option 4",
+        "address": {
+          "address1": "4242 South 300 West",
+          "address2": null,
+          "city": "Murray",
+          "state": "UT",
+          "postcode": "84157",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/78920051"
+        },
+        "type": {
+          "href": "/v2/types/cat"
+        },
+        "organization": {
+          "href": "/v2/organizations/ut28"
+        }
+      }
+    },
+    {
+      "id": 78920061,
+      "organization_id": "UT28",
+      "url": "https://www.petfinder.com/cat/tux-78920061/ut/murray/humane-society-of-utah-ut28/?referrer_id=566db905-360d-4212-8dd5-fc840d78ee1e&utm_source=api&utm_medium=partnership&utm_content=566db905-360d-4212-8dd5-fc840d78ee1e",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Black",
+        "secondary": "White",
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Small",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Tux",
+      "description": "Tux is a friendly gal who is making so much progress with getting used to humans. She loves to play...",
+      "organization_animal_id": "HSUT-A-57438",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2025-10-24T12:59:15+0000",
+      "published_at": "2025-10-24T12:59:14+0000",
+      "distance": 2.4505,
+      "contact": {
+        "email": "adoptions@utahhumane.org",
+        "phone": "(801) 261-2919 option 4",
+        "address": {
+          "address1": "4242 South 300 West",
+          "address2": null,
+          "city": "Murray",
+          "state": "UT",
+          "postcode": "84157",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/78920061"
+        },
+        "type": {
+          "href": "/v2/types/cat"
+        },
+        "organization": {
+          "href": "/v2/organizations/ut28"
+        }
+      }
+    },
+    {
+      "id": 78920047,
+      "organization_id": "UT28",
+      "url": "https://www.petfinder.com/cat/paris-78920047/ut/murray/humane-society-of-utah-ut28/?referrer_id=566db905-360d-4212-8dd5-fc840d78ee1e&utm_source=api&utm_medium=partnership&utm_content=566db905-360d-4212-8dd5-fc840d78ee1e",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "White",
+        "secondary": "Black",
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Female",
+      "size": "Large",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Paris",
+      "description": null,
+      "organization_animal_id": "HSUT-A-58042",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2025-10-24T12:59:15+0000",
+      "published_at": "2025-10-24T12:59:14+0000",
+      "distance": 2.4505,
+      "contact": {
+        "email": "adoptions@utahhumane.org",
+        "phone": "(801) 261-2919 option 4",
+        "address": {
+          "address1": "4242 South 300 West",
+          "address2": null,
+          "city": "Murray",
+          "state": "UT",
+          "postcode": "84157",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/78920047"
+        },
+        "type": {
+          "href": "/v2/types/cat"
+        },
+        "organization": {
+          "href": "/v2/organizations/ut28"
+        }
+      }
+    },
+    {
+      "id": 78915468,
+      "organization_id": "UT117",
+      "url": "https://www.petfinder.com/cat/roadie-78915468/ut/fruit-heights/davis-county-animal-services-ut117/?referrer_id=566db905-360d-4212-8dd5-fc840d78ee1e&utm_source=api&utm_medium=partnership&utm_content=566db905-360d-4212-8dd5-fc840d78ee1e",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Medium Hair",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Black",
+        "secondary": "White",
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Roadie",
+      "description": "Roadies foster family says he is a pretty chill kitten. They say he likes to find comfy spots to lounge...",
+      "organization_animal_id": "61567",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78915468/1/?bust=1761286634&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78915468/1/?bust=1761286634&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78915468/1/?bust=1761286634&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78915468/1/?bust=1761286634"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78915468/2/?bust=1761286636&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78915468/2/?bust=1761286636&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78915468/2/?bust=1761286636&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78915468/2/?bust=1761286636"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78915468/1/?bust=1761286634&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78915468/1/?bust=1761286634&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78915468/1/?bust=1761286634&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78915468/1/?bust=1761286634"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2025-10-24T06:15:25+0000",
+      "published_at": "2025-10-24T06:15:23+0000",
+      "distance": 22.7725,
+      "contact": {
+        "email": "adoption@co.davis.ut.us",
+        "phone": "(801) 444-2200",
+        "address": {
+          "address1": "1422 E. 600 N.",
+          "address2": null,
+          "city": "Fruit Heights",
+          "state": "UT",
+          "postcode": "84037",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/78915468"
+        },
+        "type": {
+          "href": "/v2/types/cat"
+        },
+        "organization": {
+          "href": "/v2/organizations/ut117"
+        }
+      }
+    },
+    {
+      "id": 78915466,
+      "organization_id": "UT117",
+      "url": "https://www.petfinder.com/cat/cody-78915466/ut/fruit-heights/davis-county-animal-services-ut117/?referrer_id=566db905-360d-4212-8dd5-fc840d78ee1e&utm_source=api&utm_medium=partnership&utm_content=566db905-360d-4212-8dd5-fc840d78ee1e",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Medium Hair",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Black",
+        "secondary": "White",
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Cody",
+      "description": "Meet Cody, the boy with one blue eye and one green eye. His foster family says he is affectionate and...",
+      "organization_animal_id": "61566",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78915466/1/?bust=1761286623&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78915466/1/?bust=1761286623&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78915466/1/?bust=1761286623&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78915466/1/?bust=1761286623"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78915466/2/?bust=1761286625&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78915466/2/?bust=1761286625&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78915466/2/?bust=1761286625&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78915466/2/?bust=1761286625"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78915466/3/?bust=1761286626&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78915466/3/?bust=1761286626&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78915466/3/?bust=1761286626&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78915466/3/?bust=1761286626"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78915466/1/?bust=1761286623&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78915466/1/?bust=1761286623&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78915466/1/?bust=1761286623&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78915466/1/?bust=1761286623"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2025-10-24T06:15:25+0000",
+      "published_at": "2025-10-24T06:15:23+0000",
+      "distance": 22.7725,
+      "contact": {
+        "email": "adoption@co.davis.ut.us",
+        "phone": "(801) 444-2200",
+        "address": {
+          "address1": "1422 E. 600 N.",
+          "address2": null,
+          "city": "Fruit Heights",
+          "state": "UT",
+          "postcode": "84037",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/78915466"
+        },
+        "type": {
+          "href": "/v2/types/cat"
+        },
+        "organization": {
+          "href": "/v2/organizations/ut117"
+        }
+      }
+    },
+    {
+      "id": 78915209,
+      "organization_id": "UT207",
+      "url": "https://www.petfinder.com/cat/snapdragon-78915209/ut/salt-lake-city/loreleis-legacy-ut207/?referrer_id=566db905-360d-4212-8dd5-fc840d78ee1e&utm_source=api&utm_medium=partnership&utm_content=566db905-360d-4212-8dd5-fc840d78ee1e",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Medium Hair",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Buff & White",
+        "secondary": "Black",
+        "tertiary": null
+      },
+      "age": "Young",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": "Medium",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": true,
+        "cats": true
+      },
+      "tags": [
+        "Affectionate",
+        "Athletic",
+        "Curious",
+        "Friendly",
+        "Funny",
+        "Playful"
+      ],
+      "name": "SnapDragon",
+      "description": "Meet SnapDragon, the fun-loving feline on the quest for adventure! This active kitty is always on the move, whether he&#039;s...",
+      "organization_animal_id": null,
+      "photos": [
+        {
+          "small": "https://dbw3zep4prcju.cloudfront.net/animal/1eaeab8a-2dce-4cb6-8db0-53417a16d49c/image/7b3e4ec9-f8e2-49d7-892e-c253569ccae4.jpg?versionId=MaSXjTj6nFOXb7uO4106Xy9dnQbEgqmy&bust=1761283785&width=100",
+          "medium": "https://dbw3zep4prcju.cloudfront.net/animal/1eaeab8a-2dce-4cb6-8db0-53417a16d49c/image/7b3e4ec9-f8e2-49d7-892e-c253569ccae4.jpg?versionId=MaSXjTj6nFOXb7uO4106Xy9dnQbEgqmy&bust=1761283785&width=300",
+          "large": "https://dbw3zep4prcju.cloudfront.net/animal/1eaeab8a-2dce-4cb6-8db0-53417a16d49c/image/7b3e4ec9-f8e2-49d7-892e-c253569ccae4.jpg?versionId=MaSXjTj6nFOXb7uO4106Xy9dnQbEgqmy&bust=1761283785&width=600",
+          "full": "https://dbw3zep4prcju.cloudfront.net/animal/1eaeab8a-2dce-4cb6-8db0-53417a16d49c/image/7b3e4ec9-f8e2-49d7-892e-c253569ccae4.jpg?versionId=MaSXjTj6nFOXb7uO4106Xy9dnQbEgqmy&bust=1761283785"
+        },
+        {
+          "small": "https://dbw3zep4prcju.cloudfront.net/animal/1eaeab8a-2dce-4cb6-8db0-53417a16d49c/image/3b60152e-259d-4cd0-9c71-b0638e9d6fab.jpg?versionId=GKguaxRcWaayuxE8rKTDZ4AiAeSu_Fhf&bust=1761283796&width=100",
+          "medium": "https://dbw3zep4prcju.cloudfront.net/animal/1eaeab8a-2dce-4cb6-8db0-53417a16d49c/image/3b60152e-259d-4cd0-9c71-b0638e9d6fab.jpg?versionId=GKguaxRcWaayuxE8rKTDZ4AiAeSu_Fhf&bust=1761283796&width=300",
+          "large": "https://dbw3zep4prcju.cloudfront.net/animal/1eaeab8a-2dce-4cb6-8db0-53417a16d49c/image/3b60152e-259d-4cd0-9c71-b0638e9d6fab.jpg?versionId=GKguaxRcWaayuxE8rKTDZ4AiAeSu_Fhf&bust=1761283796&width=600",
+          "full": "https://dbw3zep4prcju.cloudfront.net/animal/1eaeab8a-2dce-4cb6-8db0-53417a16d49c/image/3b60152e-259d-4cd0-9c71-b0638e9d6fab.jpg?versionId=GKguaxRcWaayuxE8rKTDZ4AiAeSu_Fhf&bust=1761283796"
+        },
+        {
+          "small": "https://dbw3zep4prcju.cloudfront.net/animal/1eaeab8a-2dce-4cb6-8db0-53417a16d49c/image/a2c15c92-0a74-4b67-a593-2472d5de50c1.jpg?versionId=tw6Hon1oYV2QJfrvBskU5rOEa0aW3eUw&bust=1761283807&width=100",
+          "medium": "https://dbw3zep4prcju.cloudfront.net/animal/1eaeab8a-2dce-4cb6-8db0-53417a16d49c/image/a2c15c92-0a74-4b67-a593-2472d5de50c1.jpg?versionId=tw6Hon1oYV2QJfrvBskU5rOEa0aW3eUw&bust=1761283807&width=300",
+          "large": "https://dbw3zep4prcju.cloudfront.net/animal/1eaeab8a-2dce-4cb6-8db0-53417a16d49c/image/a2c15c92-0a74-4b67-a593-2472d5de50c1.jpg?versionId=tw6Hon1oYV2QJfrvBskU5rOEa0aW3eUw&bust=1761283807&width=600",
+          "full": "https://dbw3zep4prcju.cloudfront.net/animal/1eaeab8a-2dce-4cb6-8db0-53417a16d49c/image/a2c15c92-0a74-4b67-a593-2472d5de50c1.jpg?versionId=tw6Hon1oYV2QJfrvBskU5rOEa0aW3eUw&bust=1761283807"
+        },
+        {
+          "small": "https://dbw3zep4prcju.cloudfront.net/animal/1eaeab8a-2dce-4cb6-8db0-53417a16d49c/image/279e8df8-8edf-45f9-b453-86f4e87562e0.jpg?versionId=TSHsT2AIoxKlZmaJaMkpg1G72B8eXesZ&bust=1761283820&width=100",
+          "medium": "https://dbw3zep4prcju.cloudfront.net/animal/1eaeab8a-2dce-4cb6-8db0-53417a16d49c/image/279e8df8-8edf-45f9-b453-86f4e87562e0.jpg?versionId=TSHsT2AIoxKlZmaJaMkpg1G72B8eXesZ&bust=1761283820&width=300",
+          "large": "https://dbw3zep4prcju.cloudfront.net/animal/1eaeab8a-2dce-4cb6-8db0-53417a16d49c/image/279e8df8-8edf-45f9-b453-86f4e87562e0.jpg?versionId=TSHsT2AIoxKlZmaJaMkpg1G72B8eXesZ&bust=1761283820&width=600",
+          "full": "https://dbw3zep4prcju.cloudfront.net/animal/1eaeab8a-2dce-4cb6-8db0-53417a16d49c/image/279e8df8-8edf-45f9-b453-86f4e87562e0.jpg?versionId=TSHsT2AIoxKlZmaJaMkpg1G72B8eXesZ&bust=1761283820"
+        },
+        {
+          "small": "https://dbw3zep4prcju.cloudfront.net/animal/1eaeab8a-2dce-4cb6-8db0-53417a16d49c/image/24246d1b-29bb-4995-9ff4-702c6109c802.jpg?versionId=vr.PPWnJMVwrQDpp0SnsznxKg6pwTC.N&bust=1761283835&width=100",
+          "medium": "https://dbw3zep4prcju.cloudfront.net/animal/1eaeab8a-2dce-4cb6-8db0-53417a16d49c/image/24246d1b-29bb-4995-9ff4-702c6109c802.jpg?versionId=vr.PPWnJMVwrQDpp0SnsznxKg6pwTC.N&bust=1761283835&width=300",
+          "large": "https://dbw3zep4prcju.cloudfront.net/animal/1eaeab8a-2dce-4cb6-8db0-53417a16d49c/image/24246d1b-29bb-4995-9ff4-702c6109c802.jpg?versionId=vr.PPWnJMVwrQDpp0SnsznxKg6pwTC.N&bust=1761283835&width=600",
+          "full": "https://dbw3zep4prcju.cloudfront.net/animal/1eaeab8a-2dce-4cb6-8db0-53417a16d49c/image/24246d1b-29bb-4995-9ff4-702c6109c802.jpg?versionId=vr.PPWnJMVwrQDpp0SnsznxKg6pwTC.N&bust=1761283835"
+        },
+        {
+          "small": "https://dbw3zep4prcju.cloudfront.net/animal/1eaeab8a-2dce-4cb6-8db0-53417a16d49c/image/9696dab3-5cfc-4203-ae76-f15ab61c122b.jpg?versionId=YRnVkT_LCiu.ThMX4FryAMki4VKgUq4h&bust=1761283852&width=100",
+          "medium": "https://dbw3zep4prcju.cloudfront.net/animal/1eaeab8a-2dce-4cb6-8db0-53417a16d49c/image/9696dab3-5cfc-4203-ae76-f15ab61c122b.jpg?versionId=YRnVkT_LCiu.ThMX4FryAMki4VKgUq4h&bust=1761283852&width=300",
+          "large": "https://dbw3zep4prcju.cloudfront.net/animal/1eaeab8a-2dce-4cb6-8db0-53417a16d49c/image/9696dab3-5cfc-4203-ae76-f15ab61c122b.jpg?versionId=YRnVkT_LCiu.ThMX4FryAMki4VKgUq4h&bust=1761283852&width=600",
+          "full": "https://dbw3zep4prcju.cloudfront.net/animal/1eaeab8a-2dce-4cb6-8db0-53417a16d49c/image/9696dab3-5cfc-4203-ae76-f15ab61c122b.jpg?versionId=YRnVkT_LCiu.ThMX4FryAMki4VKgUq4h&bust=1761283852"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dbw3zep4prcju.cloudfront.net/animal/1eaeab8a-2dce-4cb6-8db0-53417a16d49c/image/7b3e4ec9-f8e2-49d7-892e-c253569ccae4.jpg?versionId=MaSXjTj6nFOXb7uO4106Xy9dnQbEgqmy&bust=1761283785&width=300",
+        "medium": "https://dbw3zep4prcju.cloudfront.net/animal/1eaeab8a-2dce-4cb6-8db0-53417a16d49c/image/7b3e4ec9-f8e2-49d7-892e-c253569ccae4.jpg?versionId=MaSXjTj6nFOXb7uO4106Xy9dnQbEgqmy&bust=1761283785&width=450",
+        "large": "https://dbw3zep4prcju.cloudfront.net/animal/1eaeab8a-2dce-4cb6-8db0-53417a16d49c/image/7b3e4ec9-f8e2-49d7-892e-c253569ccae4.jpg?versionId=MaSXjTj6nFOXb7uO4106Xy9dnQbEgqmy&bust=1761283785&width=600",
+        "full": "https://dbw3zep4prcju.cloudfront.net/animal/1eaeab8a-2dce-4cb6-8db0-53417a16d49c/image/7b3e4ec9-f8e2-49d7-892e-c253569ccae4.jpg?versionId=MaSXjTj6nFOXb7uO4106Xy9dnQbEgqmy&bust=1761283785"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2025-10-24T05:33:21+0000",
+      "published_at": "2025-10-24T05:33:20+0000",
+      "distance": 4.1147,
+      "contact": {
+        "email": "info@loreleislegacy.org",
+        "phone": "(801) 810-5483",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Salt Lake City",
+          "state": "UT",
+          "postcode": "84158",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/78915209"
+        },
+        "type": {
+          "href": "/v2/types/cat"
+        },
+        "organization": {
+          "href": "/v2/organizations/ut207"
+        }
+      }
+    },
+    {
+      "id": 78902358,
+      "organization_id": "UT33",
+      "url": "https://www.petfinder.com/cat/nitro-78902358/ut/park-city/nuzzles-and-co-adoption-center-ut33/?referrer_id=566db905-360d-4212-8dd5-fc840d78ee1e&utm_source=api&utm_medium=partnership&utm_content=566db905-360d-4212-8dd5-fc840d78ee1e",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Black",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Young",
+      "gender": "Male",
+      "size": "Large",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Nitro",
+      "description": "Meet Nitro, the big, soft, cloud-like kitty who&amp;#39;s as cuddly as he is charming! This handsome black tabby has the...",
+      "organization_animal_id": "NUZZ-A-35638",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2025-10-23T18:10:50+0000",
+      "published_at": "2025-10-23T18:10:49+0000",
+      "distance": 17.9855,
+      "contact": {
+        "email": "adopt@nuzzlesandco.org",
+        "phone": "(435) 649-5441",
+        "address": {
+          "address1": "6699 N Landmark Drive #B103",
+          "address2": null,
+          "city": "Park City",
+          "state": "UT",
+          "postcode": "84098",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/78902358"
+        },
+        "type": {
+          "href": "/v2/types/cat"
+        },
+        "organization": {
+          "href": "/v2/organizations/ut33"
+        }
+      }
+    },
+    {
+      "id": 78902359,
+      "organization_id": "UT33",
+      "url": "https://www.petfinder.com/cat/cortado-78902359/ut/park-city/nuzzles-and-co-adoption-center-ut33/?referrer_id=566db905-360d-4212-8dd5-fc840d78ee1e&utm_source=api&utm_medium=partnership&utm_content=566db905-360d-4212-8dd5-fc840d78ee1e",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Black",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Young",
+      "gender": "Male",
+      "size": "Small",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Cortado",
+      "description": "Meet Cortado, a 6-month-old black and white sweetheart with the most adorable smoky look on his face! This soft and...",
+      "organization_animal_id": "NUZZ-A-35637",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2025-10-23T18:10:50+0000",
+      "published_at": "2025-10-23T18:10:49+0000",
+      "distance": 17.9855,
+      "contact": {
+        "email": "adopt@nuzzlesandco.org",
+        "phone": "(435) 649-5441",
+        "address": {
+          "address1": "6699 N Landmark Drive #B103",
+          "address2": null,
+          "city": "Park City",
+          "state": "UT",
+          "postcode": "84098",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/78902359"
+        },
+        "type": {
+          "href": "/v2/types/cat"
+        },
+        "organization": {
+          "href": "/v2/organizations/ut33"
+        }
+      }
+    },
+    {
+      "id": 78897298,
+      "organization_id": "UT202",
+      "url": "https://www.petfinder.com/cat/chara-paxton-78897298/ut/eagle-mountain/celestial-zoo-pet-rescue-ut202/?referrer_id=566db905-360d-4212-8dd5-fc840d78ee1e&utm_source=api&utm_medium=partnership&utm_content=566db905-360d-4212-8dd5-fc840d78ee1e",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Black",
+        "secondary": "White",
+        "tertiary": null
+      },
+      "age": "Young",
+      "gender": "Male",
+      "size": "Small",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": true
+      },
+      "tags": [
+        "Good with Cats"
+      ],
+      "name": "Chara Paxton",
+      "description": "Chara is very snuggly and sweet",
+      "organization_animal_id": "CZUT-A-64550",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2025-10-23T14:15:54+0000",
+      "published_at": "2025-10-23T14:15:52+0000",
+      "distance": 26.6018,
+      "contact": {
+        "email": "celestialzoostaff@gmail.com",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Eagle Mountain",
+          "state": "UT",
+          "postcode": "84005",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/78897298"
+        },
+        "type": {
+          "href": "/v2/types/cat"
+        },
+        "organization": {
+          "href": "/v2/organizations/ut202"
+        }
+      }
+    },
+    {
+      "id": 78896881,
+      "organization_id": "UT28",
+      "url": "https://www.petfinder.com/cat/purrsnkitty-78896881/ut/murray/humane-society-of-utah-ut28/?referrer_id=566db905-360d-4212-8dd5-fc840d78ee1e&utm_source=api&utm_medium=partnership&utm_content=566db905-360d-4212-8dd5-fc840d78ee1e",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Black",
+        "secondary": "White",
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Female",
+      "size": "Small",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Purrsnkitty",
+      "description": "Purrsnickitty is curious and adventurous! She always has a sky fox look on her face. She will carry toys in...",
+      "organization_animal_id": "HSUT-A-57131",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78896881/1/?bust=1761227906&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78896881/1/?bust=1761227906&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78896881/1/?bust=1761227906&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78896881/1/?bust=1761227906"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78896881/3/?bust=1761227905&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78896881/3/?bust=1761227905&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78896881/3/?bust=1761227905&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78896881/3/?bust=1761227905"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78896881/1/?bust=1761227906&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78896881/1/?bust=1761227906&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78896881/1/?bust=1761227906&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78896881/1/?bust=1761227906"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2025-10-23T13:56:45+0000",
+      "published_at": "2025-10-23T13:56:43+0000",
+      "distance": 2.4505,
+      "contact": {
+        "email": "adoptions@utahhumane.org",
+        "phone": "(801) 261-2919 option 4",
+        "address": {
+          "address1": "4242 South 300 West",
+          "address2": null,
+          "city": "Murray",
+          "state": "UT",
+          "postcode": "84157",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/78896881"
+        },
+        "type": {
+          "href": "/v2/types/cat"
+        },
+        "organization": {
+          "href": "/v2/organizations/ut28"
+        }
+      }
+    },
+    {
+      "id": 78896878,
+      "organization_id": "UT28",
+      "url": "https://www.petfinder.com/cat/purrsia-78896878/ut/murray/humane-society-of-utah-ut28/?referrer_id=566db905-360d-4212-8dd5-fc840d78ee1e&utm_source=api&utm_medium=partnership&utm_content=566db905-360d-4212-8dd5-fc840d78ee1e",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Black",
+        "secondary": "White",
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Female",
+      "size": "Small",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Purrsia",
+      "description": "Purrsia is quiet, inquisitive, and observant. She sits up like a lemur to watch the action around her. I would...",
+      "organization_animal_id": "HSUT-A-57132",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78896878/1/?bust=1761227901&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78896878/1/?bust=1761227901&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78896878/1/?bust=1761227901&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78896878/1/?bust=1761227901"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78896878/2/?bust=1761227899&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78896878/2/?bust=1761227899&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78896878/2/?bust=1761227899&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78896878/2/?bust=1761227899"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78896878/1/?bust=1761227901&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78896878/1/?bust=1761227901&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78896878/1/?bust=1761227901&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/78896878/1/?bust=1761227901"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2025-10-23T13:56:45+0000",
+      "published_at": "2025-10-23T13:56:43+0000",
+      "distance": 2.4505,
+      "contact": {
+        "email": "adoptions@utahhumane.org",
+        "phone": "(801) 261-2919 option 4",
+        "address": {
+          "address1": "4242 South 300 West",
+          "address2": null,
+          "city": "Murray",
+          "state": "UT",
+          "postcode": "84157",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/78896878"
+        },
+        "type": {
+          "href": "/v2/types/cat"
+        },
+        "organization": {
+          "href": "/v2/organizations/ut28"
+        }
+      }
+    },
+    {
+      "id": 78896284,
+      "organization_id": "UT81",
+      "url": "https://www.petfinder.com/cat/savannah-78896284/ut/salt-lake-city/best-friends-animal-society-utah-ut81/?referrer_id=566db905-360d-4212-8dd5-fc840d78ee1e&utm_source=api&utm_medium=partnership&utm_content=566db905-360d-4212-8dd5-fc840d78ee1e",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Black",
+        "secondary": "White",
+        "tertiary": null
+      },
+      "age": "Young",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Savannah",
+      "description": null,
+      "organization_animal_id": "BSLC-A-139153",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2025-10-23T13:37:51+0000",
+      "published_at": "2025-10-23T13:37:50+0000",
+      "distance": 1.9714,
+      "contact": {
+        "email": "utahadoptions@bestfriends.org",
+        "phone": "(801) 574-2454",
+        "address": {
+          "address1": "2005 S 1100 E",
+          "address2": null,
+          "city": "Salt Lake City",
+          "state": "UT",
+          "postcode": "84106",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/78896284"
+        },
+        "type": {
+          "href": "/v2/types/cat"
+        },
+        "organization": {
+          "href": "/v2/organizations/ut81"
+        }
+      }
+    }
+  ],
+  "pagination": {
+    "count_per_page": 20,
+    "total_count": 209,
+    "current_page": 1,
+    "total_pages": 11,
+    "_links": {
+      "next": {
+        "href": "/v2/animals?color=black&location=84115&type=cat&page=2"
+      }
+    }
+  }
+}

@@ -1,13 +1,7 @@
-*,
-*::before,
-*::after {
-  box-sizing: border-box;
-}
-
 :root {
     --bgCol : #ffffffcc;
-    --gradient : linear-gradient(135deg, #D1F2EB, #0E287C);
-    --shadowCol : rgba(72, 61, 139, 0.45);
+    --gradient : linear-gradient(to bottom right, #d1f2eb, #0e287c);
+    --shadowCol : 0 10px 20px rgba(0, 0, 0, 0.1);
     --fontCol : #2e4053;
     --fontColBody : #333;
     --inputCol : #fefefe;
@@ -17,38 +11,32 @@
 
   body {
     display: flex;
-    flex-flow: column wrap;
+    flex-direction: column;
     font-family: arial;
     font-weight: 600;
-    color: var(--fontCol);
-    height: 100vh;
+    color: #333;
+    min-height: 100vh;
     text-align: center;
-    background-image: var(--gradient);
+    background: var(--gradient);
   }
 
   h1 {
-    color: var(--fontColBody);
-    font-size: 2rem;
+    margin-top: 5.5rem;
+    font-size: 4rem;
     font-family: arial;
     font-weight: bold;
   }
 
-.wrapper {
+form {
   color: var(--fontCol);
-  min-width: fit-content;
-  width: 50%;
-  margin: auto;
-  box-shadow: 0 0 2rem var(--shadowCol);
+  width: 500px;
+  margin: 0.5rem auto;
+  padding: 4rem;
+  box-shadow: var(--shadowCol);
   border-radius: 1rem;
   background: var(--bgCol);
-}
-
-form {
-  display: flex;
-  flex-flow: column wrap;
-  min-width: fit-content;
-  gap: 0.5rem;
-  padding: 2rem;
+  backdrop-filter: blur(10px);
+  text-align: left;
 }
 
 span {
@@ -64,17 +52,100 @@ input, select{
     font-size: 1rem;
     width: 100%;
     padding: 0.75rem;
+    margin: 0.5rem 0;
     border-radius: 0.5rem;
     background: var(--inputCol);
-    /* border-style: solid thick var(--inputBorderCol); */
+    border: solid 2px #ccd1d1;
+}
+
+input:hover, select:hover {
+  border-color: orange;
+  box-shadow: 0 0 0.25rem orange;
+}
+
+.usrInput {
+  margin-bottom: 0.5rem;
+}
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+  appearance: textfield;
 }
 
 button {
-  box-sizing: content-box;
   background: var(--submitCol);
-  padding: 0.75rem, 1.5rem;
+  padding: 0.75rem 1.5rem;
   font-size: 1.1rem;
+  width: fit-content;
   color: white;
   border: none;
   border-radius: 0.5rem;
+}
+
+button:hover {
+  background: rgb(255, 213, 121);
+  box-shadow: 0 0 0.25rem darkslategray;
+}
+
+button:active {
+  background: lightpink;
+  box-shadow: none;
+}
+
+.card-wrapper {
+  display: flex;
+  flex-flow: row wrap;
+  margin-top: 4rem;
+  gap: 1rem;
+  justify-content: center;
+}
+
+.card {
+  border-radius: 0.5rem;
+  background: lightsteelblue url("/img/children-1941336_640.png") ;
+  background-size: 50%;
+  background-blend-mode: color-burn;
+  max-width: min-content;
+  height: fit-content;
+  padding: 1.5rem;
+  text-align: left;
+  border: double 0.5rem black;
+  box-shadow: 0 0 0.5rem darkslateblue;
+}
+
+.card:hover {
+  box-shadow: 0 0 1rem #18c9ff;
+}
+
+.card img {
+  max-width: 20rem;
+  border-radius: inherit;
+  border: solid 3px black;
+  box-shadow: 0 0 1rem rgb(110, 191, 241);
+}
+
+.card h2 {
+  -webkit-text-stroke: 0.05rem black;
+  margin: 0 auto 0.5rem 0;
+  padding: 0.25rem 0.5rem;
+  width: fit-content;
+  border: solid 0.2rem black;
+  border-radius: 0.5rem;
+  background: #d1f2eb;
+  color: #fefefe;
+}
+
+.card p {
+  padding: 0.5rem;
+  border: solid black;
+  border-radius: 0.5rem;
+  background: #d8e7e4;
 }

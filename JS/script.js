@@ -6,6 +6,7 @@ const secret = "NlHMu48QRrFSB22FCw6E8N2y4vDiV6vkXXx2E17U";
 const form = document.getElementById("petForm");
 form.addEventListener("submit", usrData);
 
+
 // first, lets collect our user data
 function usrData (e) {
   e.preventDefault();
@@ -39,7 +40,7 @@ function getAdoptablePets(formData) {
 //first need to call the getToken function, then once that value is returned, you can use the token in the API call
 //they will have to research how to build their link
 	getToken().then((token) => {
-		fetch(	 `https://api.petfinder.com/v2/animals?type=${formData.type}&location=${formData.zip}&color=${formData.colorSelect}`,
+		fetch(`https://api.petfinder.com/v2/animals?type=${formData.type}&location=${formData.zip}&color=${formData.colorSelect}`,
 			{//note the token is being used in the header, which they will learn more about in backend
 				headers: {
 					Authorization: `Bearer ${token}`
@@ -47,7 +48,47 @@ function getAdoptablePets(formData) {
 			}
 		)
 			.then((res) => res.json())
-			.then((data) => console.log(data))
-      .catch((error) => console.error("Error:", error));
+			.then((data) => {
+				console.log(data);
+				// Clear previous results before rendering new ones
+				const cardWrap = document.querySelector(".card-wrapper");
+				if (cardWrap) {
+					cardWrap.innerHTML = "";
+				}
+				// Image handler
+				if (!data.animals || data.animals.length === 0) {
+					const msg = document.createElement("p");
+					msg.textContent = "No matching pets found. Try different filters.";
+					cardWrap && cardWrap.appendChild(msg);
+					return;
+				}
+				// Render new cards
+				data.animals.forEach((animal) => cardGen(animal));
+	})
+			.catch((error) => console.error("Error:", error));
 	});
+}
+
+function cardGen(animal) {
+	// Elements for each item of data
+	const cardWrap = document.querySelector(".card-wrapper");
+	const card = document.createElement("div");
+	const cardH2 = document.createElement("h2");
+	const cardP = document.createElement("p")
+	const cardImg = document.createElement("img");
+
+	// Essential prep of the items
+	card.classList.add("card");
+	cardImg.setAttribute("alt", `animal`);
+	const photoUrl = (animal.photos && animal.photos[0])
+		? (animal.photos[0].medium || animal.photos[0].small || animal.photos[0].full)
+		: "img/cat-5556938_1280.jpg";
+	cardImg.setAttribute("src", photoUrl);
+	cardH2.textContent = animal.name;
+	cardP.textContent = animal.description || "No description available.";
+
+	card.appendChild(cardH2);
+	card.appendChild(cardImg);
+	card.appendChild(cardP);
+	cardWrap.appendChild(card);
 }
